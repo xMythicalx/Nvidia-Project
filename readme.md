@@ -1,6 +1,6 @@
-# Project Name
+# States of Matter
 
- Add short description of project here > 
+In this project, we distinguish between solids, gases, and liquids. This is primarily for young children who are unfamiliar with the states of matter. 
 
 ![add image descrition here](direct image link here)
 
