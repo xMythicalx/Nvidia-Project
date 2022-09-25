@@ -2,7 +2,6 @@
 
 In this project, we distinguish between different types of balls such as a basketball, rugby/football, soccer ball, and many more. This project is for young kids who don't know what types of balls they're looking at. 
 
-![A tennis ball]((https://user-images.githubusercontent.com/110697443/192128837-380ad740-b71e-40a1-91ef-70317b3d95df.jpg))
 
 ## The Algorithm
 This project is made with Jetson Nano. The dataset of this model, a retrained version of ResNet18, contains a large amount of balls. It uses the imagenet program when you run it.
