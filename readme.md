@@ -15,6 +15,9 @@ P.S. Follow this link before doing this project --> https://github.com/dusty-nv/
 4. Use this --> ./imagenet images/[] images/test/{} (Inside [], put the name of the picture that you downloaded(Ex. basketball.jpeg), Inside {}, use a file to output to(Ex. basketball.jpg)
 5. Scp the Jetson Nano's output file onto your computer to view the results.
 
+## Code
 [Code](https://youtu.be/MbrV3eEEAZ8)
+## Terminal
 [Terminal](https://youtu.be/_UHpT57Ln0M)
+## Result
 [Result](https://youtu.be/qcfjltnrm2o)
